@@ -8,3 +8,11 @@
     height: 709px;
     background-color: #FCD9FB;
 }
+.retangulo{
+    width: 412px;
+    height: 709px;
+    background-color: #C4FFBF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
