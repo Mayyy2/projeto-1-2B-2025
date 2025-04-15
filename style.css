@@ -12,7 +12,4 @@
     width: 229px;
     height: 51px;
     background-color: #C4FFBF;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
 }
