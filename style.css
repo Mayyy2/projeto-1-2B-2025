@@ -7,6 +7,8 @@
     width: 412px;
     height: 709px;
     background-color: #FCD9FB;
+    display: flex;
+    justify-content: center;
 }
 .retangulo{
     width: 229px;
@@ -14,6 +16,6 @@
     background-color: #C4FFBF;
 }
 .Plantaverso{
-    display: flex;
-    justify-content: center;
+    width: 315.5px;
+    height: 82px;
 }
