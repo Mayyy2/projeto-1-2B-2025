@@ -8,6 +8,7 @@
     height: 709px;
     background-color: #FCD9FB;
     display: flex;
+    justify-content: center; 
     flex-direction: column;
     justify-content: space-between;
     height: 412px;
