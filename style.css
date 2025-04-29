@@ -14,5 +14,6 @@
     background-color: #C4FFBF;
 }
 .Plantaverso{
+    display: flex;
     justify-content: center;
 }
